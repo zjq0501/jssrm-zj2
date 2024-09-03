@@ -1,3 +1,4 @@
+scikit-learn==1.0.2
 streamlit==1.32.0
 streamlit-aggrid==0.3.4.post3
 streamlit-dynamic-filters==0.1.5
