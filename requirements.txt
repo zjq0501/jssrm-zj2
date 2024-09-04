@@ -8,3 +8,4 @@ shap==0.45.0
 scikit-learn==1.2.0
 openpyxl
 setuptools
+distutils
