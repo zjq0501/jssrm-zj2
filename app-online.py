@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 import shap
+import distutils
 from sklearn.ensemble import RandomForestRegressor
 
 # 初始化 session_state 中的 data
