@@ -3,6 +3,6 @@ libsm6
 libxext6
 gifsicle
 build-essential
-python3.8-dev
+python3-dev
 gdal-bin
 libgdal-dev
